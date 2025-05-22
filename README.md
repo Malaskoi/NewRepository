@@ -2,5 +2,5 @@
 <p> Repositório sem ser alterado</p>
 <h2>Eu adoro panquecas!!</h2>
 <p align="center"> 
-<img src="https://moinhoglobo.com.br/wp-content/uploads/2018/09/24-panqueca.jpg">
+<img src="https://cloudfront-us-east-1.images.arcpublishing.com/estadao/CHIR6AAS5VNBNPPIAWWIDQJ35A.jpg">
 </p>
